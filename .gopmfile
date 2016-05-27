@@ -1,0 +1,7 @@
+[target]
+path=github.com/mrexodia/go-github-telegram
+
+[deps]
+github.com/jinzhu/configor = commit:f740b0b
+github.com/google/go-github/github = 
+github.com/go-telegram-bot-api/telegram-bot-api =
